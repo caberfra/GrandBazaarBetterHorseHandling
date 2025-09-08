@@ -25,9 +25,11 @@
     <ItemGroup>
       <Reference Include="Assembly-CSharp">
         <HintPath>..\library\Assembly-CSharp.dll</HintPath>
+          <Private>False</Private>
       </Reference>
       <Reference Include="BokuMono.Utility">
         <HintPath>..\library\BokuMono.Utility.dll</HintPath>
+          <Private>False</Private>
       </Reference>
     </ItemGroup>
     
