@@ -39,11 +39,11 @@ I recommended starting from scratch with the BepInEx template, as it sets up the
     2. Visual Studio - Right-click on the Dependencies option in the Solution Explorer and select **"Add Project
        Reference... -> Browse..."**.
     3. Browse to the DLL you want to add (these will be in the `BepInEx/interop` folder, but I recommend moving them to another folder outside the game).
-    4. Select the DLL and click OK. (You can check if it was added by expanding the Dependencies and looking in assemblies(In Rider under .NET 6.0 -> Assemblies))
-<br>
+    4. Select the DLL and click OK. (You can check if it was added by expanding the Dependencies and looking in assemblies(In Rider under .NET 6.0 -> Assemblies))<br>
   The `.csproj` file also contains comments for clarification on what they add.
-<br><br>
----
+<br><be>
+
+
 ## Build
 - **Building the Plugin**:  
   To build the plugin, just build the project in your IDE. The output DLL will be located in the `bin/Debug/net6.0` or
