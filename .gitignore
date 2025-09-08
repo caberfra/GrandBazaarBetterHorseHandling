@@ -1,0 +1,10 @@
+# This will ignore any files or folders that you want to exclude from version control(GitHub, GitLab, etc.)
+# Ignores build outputs and IDE specific files
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.vs/
+/.idea/
+*.user
