@@ -33,7 +33,8 @@ public class Plugin : BasePlugin
         // Logs on startup to the BepInEx console and log file
         Log.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
         
-        // Without this line, the patches won't be applied
+        // Creates a new Harmony instance and applies all patches in the specified class
+        // Without this, the patches won't be applied
         Harmony.CreateAndPatchAll(typeof(TutorialPatch));
     }
     
