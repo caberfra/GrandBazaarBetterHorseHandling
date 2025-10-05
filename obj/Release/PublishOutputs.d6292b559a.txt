@@ -1,5 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\STORY OF SEASONS Grand Bazaar\BepInEx\plugins\test3publish\BetterHorseHandling.dll
-C:\Program Files (x86)\Steam\steamapps\common\STORY OF SEASONS Grand Bazaar\BepInEx\plugins\test3publish\BetterHorseHandling.deps.json
-C:\Program Files (x86)\Steam\steamapps\common\STORY OF SEASONS Grand Bazaar\BepInEx\plugins\test3publish\BetterHorseHandling.pdb
-C:\Program Files (x86)\Steam\steamapps\common\STORY OF SEASONS Grand Bazaar\BepInEx\plugins\test3publish\Assembly-CSharp.dll
-C:\Program Files (x86)\Steam\steamapps\common\STORY OF SEASONS Grand Bazaar\BepInEx\plugins\test3publish\Il2Cppmscorlib.dll
